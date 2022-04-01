@@ -1,0 +1,13 @@
+make
+git
+vim
+nano
+build-essentials
+mysql-server
+php
+libapache2-mod-php
+php-cli
+php-mysql
+software-properties-common
+r-base
+gdebi-core
