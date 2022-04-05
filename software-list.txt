@@ -2,7 +2,7 @@ make
 git
 vim
 nano
-build-essentials
+build-essential
 mysql-server
 php
 libapache2-mod-php
